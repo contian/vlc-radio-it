@@ -18,3 +18,10 @@ I'm italian, and for this reason i listen especially italian radios. Below the s
 | ------------- | ------------- |
 | RDS           | Content Cell  |
 | DeeJay        | Content Cell  |
+
+#### Legend
+* __W__: working, no issues reported.
+* __U__: under active development, I'm working on it.
+* __P__: problematic web radio.
+* __?__: unknown problems.
+* __N__: not implemented.
